@@ -1,4 +1,4 @@
-👋 Hi, I’m @GerbilPL
+👋 Hi, I’m ~~@GerbilPL~~ a nerd
 
 Yes.
 
@@ -6,4 +6,5 @@ Yes.
   Now you can do whatever, as long as you give me credits.
 - I manage Polish Translation of No Chat Reports by [@Aizistral-Studios](https://github.com/Aizistral-Studios) - [Github Link](https://github.com/Aizistral-Studios/No-Chat-Reports)
 
-Feel free to fix my mistakes.
+- I am the author of my little project cuz I needed it, basic ciphers for scouts: [Szyfry Harcerskie](https://szyfry-harcerskie.netlify.app)
+  I might add more things to it (other than ciphers) but this is it for now.
