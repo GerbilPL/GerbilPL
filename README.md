@@ -8,3 +8,5 @@ Yes.
 
 - I am the author of my little project cuz I needed it, basic ciphers for scouts: [Szyfry Harcerskie](https://szyfry-harcerskie.netlify.app)
   I might add more things to it (other than ciphers) but this is it for now.
+
+Here's also my [linkedin profile](https://www.linkedin.com/in/gabriel-pilch-a59835303/)
