@@ -30,7 +30,7 @@ I'm **GerbilPL**, a passionate nerd with a love for translation, coding, and har
 
 ## 📬 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/gabriel-pilch-a59835303/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-pilch-a59835303/)
 
 Feel free to reach out if you have any questions or just want to connect!
 
