@@ -38,12 +38,16 @@ Feel free to reach out if you have any questions or just want to connect!
 
 ### 🎮 BTD5 Expansion - Polish Translation
 I managed the Polish translation for the BTD5 Expansion by 5h3i1ah. Feel free to use it, just give me the credits!  
-- [GitHub Repository](https://github.com/GerbilPL/BTD5EPL)  
-- [Join the Discussion on Discord](https://discord.gg/jk8kHD9bmz)
+[![GitHub Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GerbilPL/BTD5EPL)  
+[![Join the Discussion on Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jk8kHD9bmz)
 
 ### 🛡️ No Chat Reports - Polish Translation
-I also manage the Polish translation for the No Chat Reports project by [Aizistral-Studios](https://github.com/Aizistral-Studios).  
-- [GitHub Repository](https://github.com/Aizistral-Studios/No-Chat-Reports)
+I also made the first version of Polish translation for the No Chat Reports Minecraft mod by [Aizistral-Studios](https://github.com/Aizistral-Studios).  
+[![GitHub Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aizistral-Studios/No-Chat-Reports)
 
 ### 🔒 Szyfry Harcerskie
 I created [Szyfry Harcerskie](https://szyfry-harcerskie.netlify.app), a basic ciphers tool for scouts. This project started out of necessity, and I might expand it with more features in the future.
+
+# 📊 GitHub Stats:
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=GerbilPL&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerbilPL&layout=compact)
