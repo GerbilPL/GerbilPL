@@ -50,4 +50,4 @@ I created [Szyfry Harcerskie](https://szyfry-harcerskie.netlify.app), a basic ci
 
 # 📊 GitHub Stats:
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=GerbilPL&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerbilPL&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerbilPL&layout=pie&hide=xml)
