@@ -10,6 +10,7 @@ I'm **GerbilPL**, a passionate nerd with a love for translation, coding, and har
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![QuickBasic](https://img.shields.io/badge/QuickBasic-9933CC?style=for-the-badge&logo=basic&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=orange)
 
 ### 📚 Basic Knowledge
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
