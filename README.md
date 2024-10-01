@@ -38,7 +38,7 @@ Feel free to reach out if you have any questions or just want to connect!
 ## 🚀 Projects & Contributions
 
 ### 🎮 BTD5 Expansion - Polish Translation
-I managed the Polish translation for the BTD5 Expansion by 5h3i1ah. Feel free to use it, just give me the credits!  
+I manage the Polish translation for the BTD5 Expansion by Shaiko. Feel free to use it, just give me the credits!  
 [![GitHub Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GerbilPL/BTD5EPL)  
 [![Join the Discussion on Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jk8kHD9bmz)
 
