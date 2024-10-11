@@ -19,6 +19,7 @@ I'm **GerbilPL**, a passionate nerd with a love for translation, coding, and har
 ### 📚 Basic Knowledge
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git)
 
 ### 💡 Good Knowledge
 ![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=batch&logoColor=white)
