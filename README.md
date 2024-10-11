@@ -6,8 +6,6 @@ I'm **GerbilPL**, a passionate nerd with a love for translation, coding, and har
 
 ### 🌱 Dipped a Toe
 ![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assembly&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![QuickBasic](https://img.shields.io/badge/QuickBasic-9933CC?style=for-the-badge&logo=basic&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=orange)
@@ -15,11 +13,13 @@ I'm **GerbilPL**, a passionate nerd with a love for translation, coding, and har
 ### 🐣 Beginner
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 📚 Basic Knowledge
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 💡 Good Knowledge
 ![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=batch&logoColor=white)
