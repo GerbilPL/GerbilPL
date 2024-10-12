@@ -48,9 +48,6 @@ I manage the Polish translation for the BTD5 Expansion by Shaiko. Feel free to u
 I also made the first version of Polish translation for the No Chat Reports Minecraft mod by [Aizistral-Studios](https://github.com/Aizistral-Studios).  
 [![GitHub Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aizistral-Studios/No-Chat-Reports)
 
-### 🔒 Szyfry Harcerskie
-I created [Szyfry Harcerskie](https://szyfry-harcerskie.netlify.app), a basic ciphers tool for scouts. This project started out of necessity, and I might expand it with more features in the future.
-
 # 📊 GitHub Stats:
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=GerbilPL&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerbilPL&layout=pie&hide=xml)
