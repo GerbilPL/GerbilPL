@@ -6,7 +6,6 @@ I'm **GerbilPL**, a passionate nerd with a love for translation, coding, and har
 
 ### 🌱 Dipped a Toe
 ![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assembly&logoColor=white)
-![QuickBasic](https://img.shields.io/badge/QuickBasic-9933CC?style=for-the-badge&logo=basic&logoColor=white)
 
 ### 🐣 Beginner
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
